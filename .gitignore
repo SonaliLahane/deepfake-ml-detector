@@ -2,5 +2,4 @@ __pycache__/
 *.pyc
 temp_faces/
 temp_video.mp4
-models/
-*.pkl
+
